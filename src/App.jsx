@@ -79,7 +79,7 @@ function App() {
             <IconAnchor />
             <span>
               Plano do Dia
-              <small>Oficial de Serviço · Marinha do Brasil</small>
+              <small>Oficial de Serviço · Marinha</small>
             </span>
           </Heading>
         </Header>
