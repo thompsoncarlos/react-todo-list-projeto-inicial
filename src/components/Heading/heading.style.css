@@ -1,0 +1,19 @@
+.heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    margin: 0;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 120%;
+    color: #FFFFFF;
+}
+
+.heading small {
+    display: block;
+    margin-top: 4px;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 140%;
+}
