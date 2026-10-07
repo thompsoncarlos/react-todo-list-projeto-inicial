@@ -1,8 +1,8 @@
-![](thumbnail.png)
+![](screen-capture.png)
 
-# Checklist do Plano do Dia do Oficial de Serviço — Marinha do Brasil
+# Checklist do Plano do Dia do Oficial de Servi
 
-Aplicação de checklist para organizar as atividades do Plano do Dia do Oficial de Serviço da Marinha do Brasil, separando o que ainda precisa ser cumprido do que já foi concluído.
+Aplicação de checklist para organizar as atividades do Plano do Dia do Oficial de Serviço da Marinha, separando o que ainda precisa ser cumprido do que já foi concluído.
 
 ## 🔨 Funcionalidades do projeto
 
@@ -12,8 +12,6 @@ Aplicação de checklist para organizar as atividades do Plano do Dia do Oficial
 * Feedback visual para lista vazia (empty state)
 * Modal para adicionar/editar tarefas
 * Lista animada de tarefas
-
-![](screen-capture.png)
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
@@ -46,13 +44,3 @@ npm run dev
 ```
 
 4. Acesse no navegador: [http://localhost:5173](http://localhost:5173) (Vite).
-
-## 📚 Mais informações do curso
-
-Curtiu o projeto e quer aprender na prática? O passo a passo completo faz parte do segundo ccurso da carreira React da Alura, com foco em experiência real de desenvolvimento, boas práticas e refatoração progressiva.
-
-Se quiser experimentar, explore o código e customize o checklist do seu jeito!
-
----
-
-Vida longa e próspera 🚀
